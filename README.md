@@ -1,4 +1,4 @@
-##👋 I'm Aaditya
+## 👋 I'm Aaditya
 
 | Software Developer - MERN stack, C++, Python | 
 
