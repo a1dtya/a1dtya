@@ -1,3 +1,8 @@
+
+![Black Technology LinkedIn Banner](https://github.com/a1dtya/a1dtya/assets/94757097/a775dfed-7dbe-478b-b382-2e3b09167a01)
+
+
+
 ## 👋 I'm Aaditya
 
 | Software Developer - MERN stack, C++, Python | 
