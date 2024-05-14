@@ -5,14 +5,14 @@
 
 ## 👋 I'm Aaditya
 
-| Software Developer - MERN stack, C++, Python | 
+| Software Developer - MERN stack, C++, Python, Swift< SwiftUI| 
 
 - 🌱 Exploring various oppertunities in software development.
 - 💻 Highly interested in Full stack development.
 - 📚 Enthusiastic about Data Structures and Algorithms and System Design.
 - 💬 I love discussing and posting about Web Dev, DSA, New tech, AI and Interview-related topics.
 
-Feel free to explore my repositories and projects related to MERN stack development, DSA, and system design. Don't hesitate to reach out if you have any questions or suggestions!
+Feel free to explore my repositories and projects related to MERN stack development, DSA, and system design, IOS Apps. Don't hesitate to reach out if you have any questions or suggestions!
 
 Happy coding! 😊
 
