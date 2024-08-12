@@ -1,7 +1,5 @@
 
-
-![GithubBanner](https://github.com/user-attachments/assets/01ded414-7be9-43bb-b403-3dbbb2368abb)
-
+![banner](https://github.com/user-attachments/assets/ce2ef01f-8132-4279-838f-d5140e68ad49)
 
 
 
