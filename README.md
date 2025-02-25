@@ -6,7 +6,7 @@
 
 ## Aaditya 
 
-I can code!
+I code!
 
 
 
